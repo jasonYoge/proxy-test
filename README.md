@@ -1,6 +1,8 @@
-# proxy-test [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
+# proxy-test 
 
 > 🎉Learn how to use proxy effectively.
+
+[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
 
 ## Whats this project for?
 This project is a personal project aimed to learn how to use `Proxy` and `Reflect`.
